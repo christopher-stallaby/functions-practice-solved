@@ -14,7 +14,9 @@
 */
 
 // Your code goes here
-
+const logMessage = function () {
+  console.log('Hello, World!');
+};
 
 
 
@@ -30,7 +32,9 @@
 */
 
 // Your code goes here...
-
+const logMyMessage = function (message) {
+  console.log(message);
+};
 
 
 
@@ -45,7 +49,9 @@
 */
 
 // Your code goes here...
-
+const logMessageWithMyName = function (name) {
+  console.log(`My name is ${name}!`);
+};
 
 
 
@@ -61,7 +67,9 @@
 */
 
 // Your code goes here...
-
+const logMyInfo = function (name, age) {
+  console.log(`My name is ${name}. I am ${age} years old!`);
+};
 
 
 
